@@ -56,7 +56,7 @@ This project moves beyond a linear data pipeline. It employs three distinct AI A
     ```
 
 3.  **Configure Environment:**
-    Create a `.env` file in the root directory:
+    Edit the `.env` file in the root directory:
     ```env
     GOOGLE_API_KEY=your_gemini_api_key_here
     ```
