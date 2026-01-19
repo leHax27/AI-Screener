@@ -1,0 +1,7 @@
+{
+  "match_score": 0.63,
+  "recommendation": "The candidate possesses several skills that align well with the job requirements, including Python, Django, PostgreSQL, Docker, and Redis. However, there are gaps in areas such as Fintech/Payments Domain, Distributed Systems Design, Security Best Practices, High-Throughput Systems, Python 3.8+, Kubernetes, Message Queues (Kafka/RabbitMQ), and more in-depth AWS knowledge. Further evaluation is needed to assess the candidate's overall suitability.",
+  "requires_human": true,
+  "confidence": 0.95,
+  "reasoning_summary": "The match score is calculated based on the direct overlap of skills between the job requirements and the candidate's skills. Skills like Python, Django, PostgreSQL, Docker, and Redis are present in both. The match score reflects the proportion of required skills found in the candidate's skillset."
+}

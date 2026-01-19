@@ -1,0 +1,7 @@
+{
+  "match_score": 0.0,
+  "recommendation": "No match found. Candidate skills do not overlap with job requirements.",
+  "requires_human": true,
+  "confidence": 1.0,
+  "reasoning_summary": "The candidate has no listed skills. Therefore there is no overlap with the job requirements, leading to a match score of 0.0."
+}

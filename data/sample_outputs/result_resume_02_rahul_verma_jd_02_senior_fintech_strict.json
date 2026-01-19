@@ -1,0 +1,7 @@
+{
+  "match_score": 0.36,
+  "recommendation": "The candidate possesses several required skills, including Python, Django, and PostgreSQL. However, they lack experience in Fintech/Payments Domain, Distributed Systems Design, Security Best Practices, High-Throughput Systems, Python 3.8+, Redis/Caching, Docker, Kubernetes, Message Queues (Kafka/RabbitMQ), and specific AWS services. Further evaluation is needed to assess their overall suitability.",
+  "requires_human": true,
+  "confidence": 0.75,
+  "reasoning_summary": "The candidate has 4 skills matching the job requirements out of 11 total requirements. Skills matched: Python, Django, PostgreSQL, and REST APIs (which are relevant to both Django/FastAPI)."
+}

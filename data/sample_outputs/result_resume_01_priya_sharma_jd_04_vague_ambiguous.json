@@ -1,0 +1,7 @@
+{
+  "match_score": 0.5,
+  "recommendation": "The candidate possesses skills that align with some of the job requirements, particularly in database experience. However, there's a notable absence of general programming knowledge and coding skills as directly specified, despite the presence of specific languages and frameworks.",
+  "requires_human": true,
+  "confidence": 0.75,
+  "reasoning_summary": "The candidate's 'SQL', 'PostgreSQL', 'MySQL', and 'MongoDB' skills fulfill the 'Database experience' and 'Database' requirements. However, the broad requirements 'Programming knowledge' and 'Coding skills' were not explicitly matched, although the candidate lists several programming languages and frameworks which might imply proficiency."
+}

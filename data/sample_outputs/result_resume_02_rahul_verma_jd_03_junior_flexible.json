@@ -1,0 +1,7 @@
+{
+  "match_score": 0.6,
+  "recommendation": "The candidate possesses skills that align with the job requirements, including Python and Django. They also have experience with REST APIs which fulfills the web development concepts requirement. However, the candidate's level of Django is listed as beginner. The candidate's English communication and problem-solving skills were not explicitly evaluated.",
+  "requires_human": true,
+  "confidence": 0.85,
+  "reasoning_summary": "The candidate's skills were directly compared to the job requirements. Skills present in both lists were counted as matches. The match score was calculated by dividing the number of matched skills by the total number of required skills (3/5 = 0.6). While 'REST APIs' was not explicitly listed it was determined to be a sufficient match for 'Web development concepts (APIs, HTTP, databases)'."
+}

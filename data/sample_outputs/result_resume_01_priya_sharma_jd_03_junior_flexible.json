@@ -1,0 +1,7 @@
+{
+  "match_score": 0.0,
+  "recommendation": "The candidate does not possess any of the skills explicitly listed in the job requirements. Further assessment is needed to determine suitability.",
+  "requires_human": true,
+  "confidence": 1.0,
+  "reasoning_summary": "The candidate skills list is empty, resulting in a 0% match with the job requirements which include Python programming, Web development concepts (APIs, HTTP, databases), Django, Problem-solving, and English communication. Therefore, the match score is 0.0. A human review is required to assess potential."
+}

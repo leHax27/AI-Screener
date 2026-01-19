@@ -1,0 +1,7 @@
+{
+  "match_score": 0.0,
+  "recommendation": "No skills match the job requirements.",
+  "requires_human": true,
+  "confidence": 1.0,
+  "reasoning_summary": "The candidate's skills do not overlap with the job requirements. The job requires programming knowledge, database experience, coding skills, and database knowledge, none of which are explicitly listed in the candidate's skills."
+}

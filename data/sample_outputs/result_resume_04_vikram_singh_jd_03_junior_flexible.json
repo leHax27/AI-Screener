@@ -1,0 +1,7 @@
+{
+  "match_score": 0.4,
+  "recommendation": "The candidate demonstrates proficiency in Python and Django, aligning with key job requirements. However, there are gaps in web development concepts and English communication skills based on the provided skill list. Further assessment is recommended to evaluate these areas.",
+  "requires_human": true,
+  "confidence": 0.8,
+  "reasoning_summary": "Two out of five required skills ('Python programming' which is covered by 'Python', and 'Django') are present in the candidate's skill list. Web development concepts and English communication are missing. 'Problem-solving' is difficult to verify from a skill list."
+}

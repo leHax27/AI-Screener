@@ -1,0 +1,7 @@
+{
+  "match_score": 0.0,
+  "recommendation": "The candidate's skills do not align with the job requirements.",
+  "requires_human": true,
+  "confidence": 1.0,
+  "reasoning_summary": "None of the skills listed in the job requirements (Python programming, Web development concepts (APIs, HTTP, databases), Django, Problem-solving, English communication) are present in the candidate's skills (JavaScript, TypeScript, HTML5, CSS3, React.js, Next.js, Vue.js, Tailwind CSS, SCSS, Git, Webpack, Vite, Figma, VS Code, Chrome DevTools, Jest, React Testing Library, Cypress, Responsive Design, Accessibility (WCAG), SEO basics)."
+}

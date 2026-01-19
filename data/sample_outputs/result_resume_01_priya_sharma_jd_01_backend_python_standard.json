@@ -1,0 +1,7 @@
+{
+  "match_score": 0.7,
+  "recommendation": "The candidate possesses a strong foundation in the required skills, demonstrating proficiency in Python, SQL, Django REST Framework, FastAPI, PostgreSQL, and Git. They also show familiarity with REST APIs, aligning well with the job requirements. While the candidate's skills strongly align with the requirements, a human review is recommended to assess the depth of understanding of software development best practices and English proficiency.",
+  "requires_human": true,
+  "confidence": 0.95,
+  "reasoning_summary": "The candidate's listed skills overlap significantly with the job requirements. The candidate explicitly lists Python, SQL, Django REST Framework, FastAPI, PostgreSQL, and Git. Furthermore, they list REST API Design, which is close enough to REST APIs to be considered a match. The score is calculated based on 7 matching skills out of 10 required skills, yielding a score of 0.7. Human review is needed to assess the understanding of software development best practices and English proficiency, as these are not explicitly demonstrated in the candidate's skill list."
+}

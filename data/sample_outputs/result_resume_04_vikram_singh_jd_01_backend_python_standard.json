@@ -1,0 +1,7 @@
+{
+  "match_score": 0.6,
+  "recommendation": "The candidate possesses several required skills, but lacks direct experience with REST APIs and FastAPI. Further evaluation is needed to assess their understanding of software development best practices and English proficiency.",
+  "requires_human": true,
+  "confidence": 0.8,
+  "reasoning_summary": "6 out of 10 required skills (Python, SQL, Django REST Framework, PostgreSQL, Git, and an implied understanding of relational databases due to SQL and PostgreSQL) are present in the candidate's skills. The candidate also uses Django, which is similar to Django REST Framework. Skills such as REST APIs, FastAPI, software development best practices, and English proficiency are not explicitly mentioned, requiring further assessment."
+}

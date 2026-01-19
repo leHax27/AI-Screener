@@ -1,0 +1,7 @@
+{
+  "match_score": 0.09,
+  "recommendation": "The candidate possesses Git, but lacks the other required skills. Consider other candidates with a stronger alignment to the listed requirements.",
+  "requires_human": true,
+  "confidence": 0.95,
+  "reasoning_summary": "The candidate's skills were compared against the job requirements. Only Git was found to be a match. Therefore, the match score is low."
+}

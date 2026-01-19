@@ -1,0 +1,7 @@
+{
+  "match_score": 0.85,
+  "recommendation": "The candidate demonstrates a strong alignment with the job requirements, exhibiting proficiency in key technologies like Python, Django, FastAPI, PostgreSQL, Redis, and Docker. Their experience with AWS services (EC2, RDS) is also a significant advantage. While the candidate's skill set doesn't explicitly mention Kafka/RabbitMQ or Kubernetes, the presence of related skills like Celery (message queue), Microservices, and Docker suggests a potential for quick adaptation. The absence of explicit mention of security best practices and high-throughput systems should be reviewed.",
+  "requires_human": true,
+  "confidence": 0.9,
+  "reasoning_summary": "The candidate has a strong command of Python and related frameworks (Django, FastAPI). They possess database skills (PostgreSQL, Redis), containerization experience (Docker), and cloud experience (AWS). While the candidate doesn't explicitly list all required technologies, their experience suggests a good fit for the position."
+}

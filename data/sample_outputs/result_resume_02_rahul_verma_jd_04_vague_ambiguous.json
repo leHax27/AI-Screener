@@ -1,0 +1,7 @@
+{
+  "match_score": 0.5,
+  "recommendation": "The candidate possesses some of the required skills. Specifically, they have database experience and coding skills through tools like SQL and Python. However, explicit programming knowledge and database skills are not directly evident and may require further evaluation.",
+  "requires_human": true,
+  "confidence": 0.75,
+  "reasoning_summary": "The job requires 'Programming knowledge', 'Database experience', 'Coding skills', and 'Database'. The candidate skills include 'SQL', 'Python', and others, indicating coding skills and database experience. 'Programming knowledge' and specific database requirements are not explicitly mentioned but can be inferred from 'SQL' and 'Python'."
+}

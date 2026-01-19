@@ -1,0 +1,7 @@
+{
+  "match_score": 0.0,
+  "recommendation": "The candidate's skills do not align with the job requirements. The candidate possesses skills in front-end web development, while the job requires back-end development skills such as Python, database management, and cloud technologies.",
+  "requires_human": true,
+  "confidence": 1.0,
+  "reasoning_summary": "The candidate's skills do not overlap with the job requirements. The job requires skills like Python, Fintech domain knowledge, Django/FastAPI, PostgreSQL, distributed systems design, security best practices, high-throughput systems, Python 3.8+, Redis/Caching, Docker, Kubernetes, message queues (Kafka/RabbitMQ), and AWS services (EC2, RDS, SQS, Lambda), none of which are listed in the candidate's skills."
+}
